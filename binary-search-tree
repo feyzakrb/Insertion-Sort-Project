@@ -1,13 +1,6 @@
-            [22,27,16,2,18,6] 
-      
-          [22,27,16]         [2,18,6]   
-    
-      [16]    [22,27]    [2,18]    [6]
-                
- [16]    [22]    [27]    [2]    [18]    [6]               
-             
-       [16]    [22,27]     [2,18]   [6]
 
-          [16,22,27]         [2,6,18]
-                
-               [2,6,16,18,22,27]
+Kök 5'dir. 5'in solunda 3, sağında 7 bulunur. 
+1'in solunda 0, sağında 2 bulunur. 
+3'ün solunda 1, sağında 4 bulunur. 
+7'in solunda 6, sağında 8 bulunur. 
+8'in sağında 9 bulunur.
